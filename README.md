@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhammed Ashique U K</h1>
 <h3 align="center">Passionate Learner | Tech & Gaming Enthusiast</h3>
 
+<p align="center">
+  👨‍💻Passionate about Development & Technology <br>
+  🐍 Exploring Python & Blockchain <br>
+  🎮 Gaming Content Creator
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashique7-bit&label=Profile%20views&color=0e75b6&style=flat" alt="ashique7-bit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashique7-bit" alt="ashique7-bit" /></a> </p>
